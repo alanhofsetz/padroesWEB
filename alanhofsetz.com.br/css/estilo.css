@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navbar{
+	
+}
+.classe{
+	
+}
+
+header #navbar{
+	
+	width:90%;
+	padding:5%;
+	padding:5px 0%;
+	/*padding:5% 0% 5% 0%;
+	padding-top:0%;
+	padding-right:5%;
+	padding-bottom:0%;
+	padding-left:5%;*/
+	font-size:14px;
+	background:#909;
+	
+}
+header a{
+	color:#fff;
+	text-decoration:none;
+		
+}
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+		background:#c70000; /*esse não vale*/
+		color:#FFFFFF;
+		background:#093; /*evitar isto*/
+		margin:0px;
+		padding:0px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
